@@ -9,4 +9,6 @@ Here is an outline of the how to code the app:
 
 4. Design a user-friendly interface that allows users to easily navigate through the different sections of the app. Use clear and concise language to explain the different features and data displayed in the app.
 
-5. Implement the app using a programming language that is compatible with the target platform (e.g. Java for Android, Swift for iOS). Test the app thoroughly to ensure that it is bug-free and performs well.
+5. Implement the app using a programming language that is compatible with the target platform
+
+First after creating the basic html and css files, go onto making the working of the app using javascript and make the changes accordingly
